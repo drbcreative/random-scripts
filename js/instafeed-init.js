@@ -1,7 +1,7 @@
 var feed = new Instafeed({
   get: 'user',
-  userId: '4141681564',
-  accessToken: '4141681564.1677ed0.9ec8a0a6e0a448a8b013712f11318f3a',
+  userId: '',
+  accessToken: '',
   sortBy: 'most-recent',
   resolution: 'standard_resolution',
   target: 'instafeed',
